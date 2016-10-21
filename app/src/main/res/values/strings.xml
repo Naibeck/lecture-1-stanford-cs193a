@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stanford CS193A Lesson 1</string>
+    <string name="main_title_stanford_university">Stanford University CS193A Android</string>
+    <string name="label_main_instruction">Please pick the greater number for any option available. You will pick from 1 to 10. Click for the one you think is correct.</string>
+    <string name="label_main_score">Your current score: %d</string>
+</resources>
